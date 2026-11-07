@@ -1,0 +1,4 @@
+bin/
+external/
+sysroot/
+**/.DS_Store
